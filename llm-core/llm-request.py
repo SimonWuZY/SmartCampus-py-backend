@@ -1,4 +1,3 @@
-# Please install OpenAI SDK first: `pip3 install openai`
 from openai import OpenAI
 
 client = OpenAI(api_key="sk-79d7980164854184a37a8f6e2be6a3d6", base_url="https://api.deepseek.com")
